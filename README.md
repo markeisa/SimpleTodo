@@ -24,7 +24,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's my walkthrough of my SimpleToDo application:
 
 <img src='https://media.giphy.com/media/YqolaQZ3bLPgkXCb7u/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
@@ -32,8 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+My challenges with building my SimpleToDo application were figuring out how to upload my gif because my file was too large and also debugging small errors in my code. 
 ## License
 
     Copyright [yyyy] [name of copyright owner]
